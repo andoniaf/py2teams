@@ -4,7 +4,7 @@ Utilidad en **python** para enviar la salida de un comando a un canal de **Micro
 
 ![](./imgs/py2teams_logo.png)
 
-#### Configuración
+### Configuración
 
 **Linux**
 - Añadir el webhook al `config_template.py` y renombrar a `config.py`
