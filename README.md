@@ -10,7 +10,7 @@ Utilidad en **python** para enviar la salida de un comando a un canal de **Micro
 - Añadir el webhook al `config_template.py` y renombrar a `config.py`
 - Crear alias:
   ```
-  alias py2teams='python3 /cygdrive/c/Users/aalonsof/PycharmProjects/py2teams/py2teams.py'
+  alias py2teams='python3 /route/to/py2teams/py2teams.py'
   ```
 
 **Windows**
